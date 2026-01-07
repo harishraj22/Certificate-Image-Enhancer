@@ -25,13 +25,7 @@ Convert the certificate PDF into an image
 
 Load the image using Pillow and OpenCV
 
-Apply image enhancement techniques such as:
-
-Resizing
-
-Sharpening
-
-Quality improvement
+Apply image enhancement techniques such as: Resizing , Sharpening, Quality improvement
 
 Save the enhanced image with better clarity and size
 #
